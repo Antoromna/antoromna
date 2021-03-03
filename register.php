@@ -1,10 +1,7 @@
 
 <?php include('process.php') ?>
 <html>
-<head>
-  <title>Register</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
+
 <body>
   <form method="post" action="register.php" id="register_form">
     <h1>Register</h1>

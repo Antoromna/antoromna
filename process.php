@@ -1,5 +1,5 @@
 <?php 
-  $db = mysqli_connect('localhost', 'root', '', 'email_taken');
+  
   $username = "";
   $email = "";
   if (isset($_POST['register'])) {
